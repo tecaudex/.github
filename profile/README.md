@@ -18,6 +18,10 @@ At Tecaudex, we offer the following services:
 
 With expertise in these technologies, we are equipped to handle diverse project requirements and deliver exceptional results.
 
+## Code Snippets 🔧
+
+- **Ruby on Rails:** 
+  - code [snippets](https://github.com/tecaudex/ror-snippets)
 
 
 ## Contact Us 📞
